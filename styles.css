@@ -15,42 +15,6 @@ body {
   display: none;
 }
 
-.slide2 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
-.slide3 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
-.slide4 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
-.slide5 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
-.slide6 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
-.slide7 {
-  text-align: center;
-  margin-top: 8%;
-  display: none;
-}
-
 .slide-btn {
   margin-top: 3em;
 }
@@ -67,18 +31,15 @@ body {
   width: 500px;
 }
 
-.fold1, .fold2, .fold3, .fold4, .fold5, .fold6, .fold7 {
+.fold {
   width: 500px;
 }
 
-/*.fold2 {
-  width: 500px;
-}
-
-.fold3 {
-  width: 500px;
-}*/
 
 h1 {
   font-family: 'Josefin Slab', serif;
+}
+
+p {
+  font-size: 17px;
 }
