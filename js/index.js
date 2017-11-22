@@ -156,8 +156,8 @@ $(".prev12").on("click", function(){
 
 $(".next13").on("click", function(){
   $(".slide13").hide()
-  $('.slide14').css('display', 'none');
-  $('.slide14').fadeIn(1000);
+  $('.welcome').css('display', 'none');
+  $('.welcome').fadeIn(1000);
 });
 
 $(".prev13").on("click", function(){
