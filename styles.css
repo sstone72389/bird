@@ -36,8 +36,9 @@ body {
 }
 
 
-h1 {
+.title-h1 {
   font-family: 'Josefin Slab', serif;
+  color: #6495ED;
 }
 
 p {
