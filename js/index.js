@@ -80,3 +80,9 @@ $(".prev6").on("click", function(){
   $('.slide5').css('display', 'none');
   $('.slide5').fadeIn(1000);
 });
+
+$(".prev7").on("click", function(){
+  $(".slide7").hide()
+  $('.slide6').css('display', 'none');
+  $('.slide6').fadeIn(1000);
+});
