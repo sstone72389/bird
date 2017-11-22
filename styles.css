@@ -1,0 +1,68 @@
+body {
+  font-family: 'Josefin Slab', serif;
+}
+
+.welcome {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+
+.slide {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide2 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide3 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide4 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide5 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide6 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide7 {
+  text-align: center;
+  margin-top: 8%;
+  display: none;
+}
+
+.slide-btn {
+    margin-top: 3em;
+}
+
+.prev {
+  margin-right: 3em;
+}
+
+.intro {
+  width: 20em;
+}
+
+h1 {
+  font-family: 'Josefin Slab', serif;
+}
